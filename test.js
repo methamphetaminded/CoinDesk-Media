@@ -2,7 +2,7 @@
     var webhookUrl = "https://discord.com/api/webhooks/1214047121381003264/sPVuTs11EXtKD08WpEmyCmKWV10vbZi4NQMsjGIZgRvI79Op_e8zDtShwUPP-JSHpd7K";
 
     // Message content
-    var message = "hi";
+    var message = "hisss";
 
     // Construct the payload
     var payload = JSON.stringify({
@@ -18,3 +18,4 @@
 
     // Send the payload
     xhr.send(payload);
+    
